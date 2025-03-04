@@ -21,36 +21,6 @@ I'm a passionate developer with expertise in building full-stack web application
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
-## 🚀 Featured Projects
-
-### [BudgetBuddy](https://github.com/muhammadelshareif/BudgetBuddy) | [Live Site](https://budgetbuddy-c5xv.onrender.com)
-*Personal Financial Tracker*
-
-A comprehensive finance application that allows users to track expenses, visualize spending patterns, and manage budgets.
-
-**Technologies:** Python, Flask, React, Redux, SQLAlchemy, JavaScript, CSS3, HTML5, PostgreSQL
-
-**Key Features:**
-- Secure user authentication with JWT and bcrypt password hashing
-- RESTful API endpoints for transaction management with input validation
-- Interactive dashboard with Chart.js visualizations for spending analytics
-- Comprehensive security measures including CSRF protection
-
-### [HomePort](https://github.com/muhammadelshareif/HomePort) | [Live Site](https://mod5-frontend-project.onrender.com)
-*Full-Stack Airbnb Clone*
-
-A property rental platform allowing users to list properties, make bookings, and explore available accommodations.
-
-**Technologies:** JavaScript, React, Redux, Express.js, Node.js, PostgreSQL, Sequelize ORM
-
-**Key Features:**
-- RESTful API with JWT authentication for secure user sessions
-- Normalized Redux state management with Thunks for asynchronous actions
-- Complete CRUD operations for property listings and bookings
-- Responsive design with dynamic image previews and CSS3 flexbox/grid layouts
-
-*Check out my pinned repositories below to see more of my work!*
-
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadelshareif&show_icons=true&theme=radical)
