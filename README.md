@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Muhammad
+# Hello there! 👋 I'm Muhammad Elshareif!
 
 ## 💻 Full Stack Developer | Problem Solver | Continuous Learner
 
@@ -73,8 +73,3 @@ A property rental platform allowing users to list properties, make bookings, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-elshareif-746145206/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white)](your-portfolio-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melshareif1@gmail.com)
-
----
-
-⭐️ From [muhammadelshareif](https://github.com/muhammadelshareif)
-
