@@ -25,19 +25,6 @@ I'm a passionate developer with expertise in building full-stack web application
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadelshareif&show_icons=true&theme=radical)
 
-## 🌱 Currently Learning
-
-- AWS Cloud Architecture
-- Containerization with Docker
-- Advanced Data Structures & Algorithms
-
-## 💡 Fun Facts
-
-- 🎮 When I'm not coding, I enjoy Roller Skating, Gaming, Eating
-- 📚 I'm currently reading Silent Patient
-- 🌍 I've visited 3 countries
-- ☕ Fueled by Mango Juice
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-elshareif-746145206/)
