@@ -21,6 +21,29 @@ I'm a passionate developer with expertise in building full-stack web application
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
 
+## 🚀 Featured Projects
+
+### [BudgetBuddy](https://github.com/muhammadelshareif/BudgetBuddy) | [Live Site](https://budgetbuddy-c5xv.onrender.com)
+
+**Personal Financial Tracker** | *Python, Flask, React, Redux, SQLAlchemy, JavaScript, CSS3, HTML5, PostgreSQL*
+
+* Developed a full-stack finance application with Flask/SQLAlchemy backend and React/Redux frontend, implementing JWT authentication with bcrypt password hashing for secure user sessions
+* Built RESTful API endpoints for transaction CRUD operations, integrating input validation and error handling for robust user experience
+* Created responsive React components with Redux state management, featuring Chart.js visualizations to display spending analytics on an interactive dashboard
+* Integrated security measures including CSRF protection and proper user authorization for a robust application with secure data handling
+
+### [HomePort](https://github.com/muhammadelshareif/HomePort) | [Live Site](https://mod5-frontend-project.onrender.com)
+
+**Full-Stack Airbnb Clone** | *JavaScript, React, Redux, Express.js, Node.js, PostgreSQL, Sequelize ORM*
+
+* Architected RESTful API endpoints using Express.js with JWT authentication for secure user sessions
+* Implemented normalized Redux state management with Thunks for asynchronous actions
+* Engineered CRUD operations using Sequelize ORM with PostgreSQL for property listings and bookings
+* Developed React components with dynamic image previews and responsive CSS3 flexbox/grid layouts
+
+*Check out my pinned repositories below to see more of my work!*
+
+
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-elshareif-746145206/)
