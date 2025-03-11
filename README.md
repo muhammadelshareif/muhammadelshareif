@@ -26,25 +26,22 @@ I'm a passionate developer with expertise in building full-stack web application
 ### [BudgetBuddy](https://github.com/muhammadelshareif/BudgetBuddy) | [Live Site](https://budgetbuddy-c5xv.onrender.com)
 
 **Personal Financial Tracker** | *Python, Flask, React, Redux, SQLAlchemy, JavaScript, CSS3, HTML5, PostgreSQL*
-
-* Developed a full-stack finance application with Flask/SQLAlchemy backend and React/Redux frontend, implementing JWT authentication with bcrypt password hashing for secure user sessions
-* Built RESTful API endpoints for transaction CRUD operations, integrating input validation and error handling for robust user experience
-* Created responsive React components with Redux state management, featuring Chart.js visualizations to display spending analytics on an interactive dashboard
-* Integrated security measures including CSRF protection and proper user authorization for a robust application with secure data handling
+* Utilized Flask/SQLAlchemy backend with React/Redux frontend to build a full-stack finance application, implementing JWT authentication that secured user sessions and protected sensitive financial data
+* Leveraged RESTful API principles to create transaction CRUD endpoints with input validation and error handling, providing users with a reliable and frustration-free experience when managing their finances
+* Applied Redux state management with Chart.js to develop responsive visualization components, enabling users to gain actionable insights into their spending patterns through interactive dashboards
+* Implemented CSRF protection and proper authorization protocols as security measures, ensuring robust protection of user data against common web vulnerabilities
 
 ### [HomePort](https://github.com/muhammadelshareif/HomePort) | [Live Site](https://mod5-frontend-project.onrender.com)
 
 **Full-Stack Airbnb Clone** | *JavaScript, React, Redux, Express.js, Node.js, PostgreSQL, Sequelize ORM*
-
-* Architected RESTful API endpoints using Express.js with JWT authentication for secure user sessions
-* Implemented normalized Redux state management with Thunks for asynchronous actions
-* Engineered CRUD operations using Sequelize ORM with PostgreSQL for property listings and bookings
-* Developed React components with dynamic image previews and responsive CSS3 flexbox/grid layouts
+* Built RESTful API endpoints with Express.js and JWT authentication, allowing users to securely log in and maintain their sessions across the application
+* Implemented Redux with Thunks for normalized state management, creating a predictable data flow that resulted in faster rendering and smoother user interactions
+* Used Sequelize ORM with PostgreSQL to create efficient CRUD operations, enabling seamless property listing creation and management for hosts and simplified booking process for guests
+* Developed React components with CSS3 flexbox/grid layouts for dynamic image previews and responsive design, delivering a consistent user experience across all device sizes
 
 ### [Batmanhood](https://github.com/yokozuna753/Batmanhood) | [Live Site](https://batmanhood-zofv.onrender.com/)
 
 **Full-Stack Robinhood Clone** | *Python, Flask, React, Redux, SQLAlchemy, JavaScript, CSS3, HTML5, PostgreSQL*
-
 * Engineered Flask/SQLAlchemy backend with React/Redux frontend to create a responsive stock trading platform, implementing a seed management system that efficiently scales to accommodate expanding market offerings
 * Integrated yfinance Python library to fetch real-time market data and company metrics, enabling users to make informed investment decisions based on accurate financial information
 * Designed RESTful API endpoints with intelligent stock availability validation, providing users with informative "coming soon" alerts when attempting to trade unavailable securities
@@ -52,7 +49,6 @@ I'm a passionate developer with expertise in building full-stack web application
 * Implemented secure database models with proper indexing on ticker symbols, optimizing query performance while maintaining data integrity for user portfolios across multiple trading session
 
 *Check out my pinned repositories below to see more of my work!*
-
 
 ## 📫 Let's Connect!
 
