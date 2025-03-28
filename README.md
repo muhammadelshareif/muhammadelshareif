@@ -33,16 +33,6 @@ Travel is my ultimate reset button — nothing beats experiencing new places and
 * Applied Redux state management with Chart.js to develop responsive visualization components, enabling users to gain actionable insights into their spending patterns through interactive dashboards
 * Implemented CSRF protection and proper authorization protocols as security measures, ensuring robust protection of user data against common web vulnerabilities
 
-### [Batmanhood](https://github.com/yokozuna753/Batmanhood) | [Live Site](https://batmanhood-zofv.onrender.com/)
-
-**Full-Stack Robinhood Clone** | *Python, Flask, React, Redux, SQLAlchemy, JavaScript, CSS3, HTML5, PostgreSQL*
-* Engineered Flask/SQLAlchemy backend with React/Redux frontend to create a responsive stock trading platform, implementing a seed management system that efficiently scales to accommodate expanding market offerings
-* Integrated yfinance Python library to fetch real-time market data and company metrics, enabling users to make informed investment decisions based on accurate financial information
-* Designed RESTful API endpoints with intelligent stock availability validation, providing users with informative "coming soon" alerts when attempting to trade unavailable securities
-* Developed a comprehensive stock detail page using React components and asynchronous API calls, delivering real-time market data with minimal latency for an intuitive trading experience
-* Implemented secure database models with proper indexing on ticker symbols, optimizing query performance while maintaining data integrity for user portfolios across multiple trading session
-
-
 ### [HomePort](https://github.com/muhammadelshareif/HomePort) | [Live Site](https://mod5-frontend-project.onrender.com)
 
 **Full-Stack Airbnb Clone** | *JavaScript, React, Redux, Express.js, Node.js, PostgreSQL, Sequelize ORM*
