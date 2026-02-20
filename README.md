@@ -36,8 +36,6 @@
 * Used Sequelize ORM with PostgreSQL to create efficient CRUD operations, enabling seamless property listing creation and management for hosts and simplified booking process for guests
 * Developed React components with CSS3 flexbox/grid layouts for dynamic image previews and responsive design, delivering a consistent user experience across all device sizes
 
-*Check out my pinned repositories below to see more of my work!*
-
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-elshareif-746145206/)
